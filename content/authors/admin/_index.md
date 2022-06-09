@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Bill Haku
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,8 +10,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Electronic Science and Technology of China
+    url: https://uestc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
