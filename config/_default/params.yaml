@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: 'Bill Haku'
     description: 'Bill Haku's Home Page'
     twitter: 'Haku_Bill'
   analytics:
@@ -54,7 +54,7 @@ footer:
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
