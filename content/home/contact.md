@@ -26,14 +26,14 @@ content:
 
   # Contact details (edit or remove options as required)
   email: haku_bill@outlook.com
-  phone: 888 888 88 88
+  # phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Jianshe North Road 2nd Section \#6
+    city: Chengdu
+    region: Sichuan
+    postcode: '610051'
+    country: China
+    country_code: CN
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/Haku_Bill'
     - icon: video
       icon_pack: fas
       name: Zoom Me
