@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'Bill Haku'
+    # org_name: 'Bill Haku'
     description: 'Bill Haku's Home Page'
     twitter: 'Haku_Bill'
   analytics:
