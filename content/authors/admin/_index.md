@@ -11,13 +11,15 @@ role: Software Engineer
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Electronic Science and Technology of China
-    url: https://uestc.edu.cn/
+    url: https://www.uestc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: A software engineer who loves coding.
 
 # Interests to show in About widget
 interests:
+  - Linux Kernel
+  - Multiplatform Application Development
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
@@ -46,9 +48,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Haku_Bill
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Bill-Haku
@@ -70,6 +72,10 @@ email: 'haku_bill@outlook.com'
 highlight_name: true
 ---
 
-Bill Haku is a software engineer who loves coding. His interests include OS Kernel, Artificial Intelligence, iOS&macOS development, Android Development and Web page technologies.
+I am a software engineer who loves coding and all new software technologies. My interests include OS Kernel, Artificial Intelligence, iOS & macOS App development, Android App Development and Web page technologies.
+
+As a member of the StarStudio, I am responsible for the development of the iOS and iPadOS Version of the UESTC's official BBS App, Qingshuihepan.
+
+As a member of Zhuai Yuwen, I posted some artcles on it and made the website for [ZhuaiYuwen](http://zhuaiyuwen.xyz).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
