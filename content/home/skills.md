@@ -32,6 +32,14 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+  - description: 20%
+    icon: films
+    icon_pack: fas
+    name: Video Production
+  - description: 50%
+    icon: gamepad-modern
+    icon_pack: fas
+    name: Games
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

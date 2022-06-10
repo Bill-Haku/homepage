@@ -74,7 +74,7 @@ highlight_name: true
 
 I am a software engineer who loves coding and all new software technologies. My interests include OS Kernel, Artificial Intelligence, iOS & macOS App development, Android App Development and Web page technologies.
 
-As a member of the StarStudio, I am responsible for the development of the iOS and iPadOS Version of the UESTC's official BBS App, Qingshuihepan.
+As a member of StarStudio, I am responsible for the development of the iOS and iPadOS Version of the UESTC's official BBS App.
 
 As a member of Zhuai Yuwen, I posted some artcles on it and made the website for [ZhuaiYuwen](http://zhuaiyuwen.xyz).
 
