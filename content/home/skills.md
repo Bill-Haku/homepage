@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 30%
+  - description: 40%
     icon: c
     icon_pack: fab
     name: C
@@ -24,7 +24,11 @@ feature:
     icon: swift
     icon_pack: fab
     name: Swift
-  - description: 10%
+  - description: 50%
+    icon: python
+    icon_pack: fab
+    name: Python
+  - description: 20%
     icon: camera-retro
     icon_pack: fas
     name: Photography

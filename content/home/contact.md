@@ -49,9 +49,9 @@ content:
       name: DM Me
       link: 'https://twitter.com/Haku_Bill'
     - icon: email
-      icon_pack: fas
+      icon_pack: fab
       name: Email to Me
-      link: 'mailto://haku_bill@outlook.com'
+      link: 'mailto:haku_bill@outlook.com'
 
 design:
   columns: '2'
