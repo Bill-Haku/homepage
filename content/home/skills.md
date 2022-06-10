@@ -34,11 +34,11 @@ feature:
     name: Photography
   - description: 20%
     icon: films
-    icon_pack: fas
+    icon_pack: fab
     name: Video Production
   - description: 50%
     icon: gamepad-modern
-    icon_pack: fas
+    icon_pack: fab
     name: Games
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
