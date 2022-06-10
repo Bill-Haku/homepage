@@ -28,18 +28,18 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 20%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
-  - description: 20%
-    icon: films
-    icon_pack: far
-    name: Video Production
-  - description: 50%
-    icon: gamepad-modern
-    icon_pack: far
-    name: Games
+  # - description: 20%
+  #   icon: camera-retro
+  #   icon_pack: fas
+  #   name: Photography
+  # - description: 20%
+  #   icon: films
+  #   icon_pack: far
+  #   name: Video Production
+  # - description: 50%
+  #   icon: gamepad-modern
+  #   icon_pack: far
+  #   name: Games
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
