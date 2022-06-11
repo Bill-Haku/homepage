@@ -1,5 +1,6 @@
 # IDEs
 .idea/
+/.vscode
 
 # Hugo
 resources/
@@ -11,4 +12,3 @@ go.sum
 
 # macOS System
 *.DS_Store
-/.vscode
