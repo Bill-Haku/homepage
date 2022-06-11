@@ -11,3 +11,4 @@ go.sum
 
 # macOS System
 *.DS_Store
+/.vscode
