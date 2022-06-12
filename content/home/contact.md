@@ -48,8 +48,8 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/Haku_Bill'
-    - icon: email
-      icon_pack: fab
+    - icon: envelope
+      icon_pack: fas
       name: Email to Me
       link: 'mailto:haku_bill@outlook.com'
 
