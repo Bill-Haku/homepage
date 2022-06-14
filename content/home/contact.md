@@ -28,7 +28,7 @@ content:
   email: haku_bill@outlook.com
   # phone: 888 888 88 88
   address:
-    street: Jianshe North Road 2nd Section \#6
+    street: Jianshe North Road 2nd Section #6
     city: Chengdu
     region: Sichuan
     postcode: '610051'
@@ -39,8 +39,8 @@ content:
   #   longitude: '-122.1697'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Monday 14:00 to 17:00'
+    - 'Wednesday 09:00 to 12:00'
     - 'Friday 09:00 to 17:00'
   # appointment_url: 'https://calendly.com'
   contact_links:
