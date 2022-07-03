@@ -59,6 +59,39 @@ The first name `Bill` is a common English male name, but infact I got this name 
 
 The Last name `Haku` is an expression of my Chinese Family name in English. In fact, you can understand it if you can speak Japanese and know the Roman pronunciation in Japanese. My Chinese Family name shares the same character in Japanese, and it is pronaunced as *Haku* in Japanese, which is easier for most people to read and speak in the world.
 
+> Traditionally, Chinese people call the family name before the first name. Hence, sometimes my public account is called `hakubill`, rather than Bill Haku, the form of habits in English. (eg.: the domain name of this website is `hakubill.tech`)
+
+## Other Basic Infomations about me
+
+### Gender: Male
+
+Of course, I'm a male and I am 100% heterosexual.
+
+### Nationality: China
+
+I was born in Chengdu, Sichuan, China, and I am 100% Chinese and Han.
+
+### School: UESTC
+
+ [University of Electronic Science and Technology of China](http://www.uestc.edu.cn) (UESTC) ([English Official Site](https://en.uestc.edu.cn)) is a beautiful campus situated in Chengdu, Sichuan, China. I was majored in **Software Engineering** .
+
+### Contact Infomation
+
+- Email: [**haku_bill@outlook.com**](mailto:haku_bill@outlook.com)
+- Phone: [**+86(028)84383978**](tel:+86(028)84383978)
+
+You are recommended to get contact with me by Email.
+
+Also, you are welcomed to contact me at any time if you have any questions.
+
+### Work Language
+
+- English: **Recommended**
+- Simplified Chinese: **Native**
+- Traditional Chinese: It is never too hard for a Chinese to understand both Simplified and Traditional Chinese.
+- Japanese
+
+
 # License
 
 Copyright ©️ 2022-present [Bill Haku](https://hakubill.tech).
