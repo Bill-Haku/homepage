@@ -91,6 +91,11 @@ Also, you are welcomed to contact me at any time if you have any questions.
 - Traditional Chinese: It is never too hard for a Chinese to understand both Simplified and Traditional Chinese.
 - Japanese
 
+## My Values
+
+## My Skills & Work Experience
+
+# About This Website
 
 # License
 
