@@ -77,7 +77,7 @@ I was born in Chengdu, Sichuan, China, and I am 100% Chinese and Han.
 
 ### Contact Infomation
 
-- Email: [**haku_bill@outlook.com**](mailto:haku_bill@outlook.com)
+- Email: [**i@hakubill.tech**](mailto:i@hakubill.tech)
 - Phone: [**+86(028)84383978**](tel:+86(028)84383978)
 
 You are recommended to get contact with me by Email.

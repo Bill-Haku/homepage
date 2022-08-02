@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: haku_bill@outlook.com
+  email: i@hakubill.tech
   # phone: 888 888 88 88
   address:
     street: Jianshe North Road 2nd Section #6
@@ -51,7 +51,7 @@ content:
     - icon: envelope
       icon_pack: fas
       name: Email to Me
-      link: 'mailto:haku_bill@outlook.com'
+      link: 'mailto:i@hakubill.tech'
 
 design:
   columns: '2'
