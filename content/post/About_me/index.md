@@ -12,7 +12,7 @@ projects: []
 date: '2022-06-14T00:00:00Z'
 
 # Date updated
-lastmod: '2022-06-14T00:00:00Z'
+lastmod: '2022-08-03T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -92,6 +92,24 @@ Also, you are welcomed to contact me at any time if you have any questions.
 - Japanese
 
 ## My Values
+
+- Something should be free.
+
+  It is one's freedom to say, to write, to publish something although it may be contradicted to the values or principles of some people, including people who are influential.
+
+- I love China and the CPC.
+
+  I love my country, China and I am proud of it. ALso, I love Communism and the Communist Party of China. I support all the laws in People's Republic of China and support the leadership and reasonable instructions of the CPC.
+
+- I support the open-source spirit.
+
+  I support the open-source spirit. All the articles and the whole work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Almost all of my works have been open-sourced on [Github](https://github.com) licensed under [MIT License](https://opensource.org/licenses/MIT) or other licenses. In addition, I will give priority to open-source softwares in my daily life.
+
+- I support the Internet spirit.
+
+- I respect the rights and privacy of others.
+
+- I oppose discrimination.
 
 ## My Skills & Work Experience
 
