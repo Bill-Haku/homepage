@@ -48,6 +48,14 @@ I'm firmly believe that owning an email address with your own domain suffix is a
 
 ## Hardware
 
+- Synology NAS
+
+    Any model that is currently supported by Synology is acceptable.
+
+    My model is DS418.
+
+    If you install DSM on your own device, maybe it's also acceptable.
+
 ## Software
 
 ## Others
