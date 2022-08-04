@@ -70,4 +70,14 @@ I'm firmly believe that owning an email address with your own domain suffix is a
 
 ## Others
 
+- Domain name
+
+    You need to own a domain name and you can configure DNS on your authority DNS server.
+
+- Public IP address
+
+    You need to get a public IP address from your ISP. In my experience, public IP address is not provided to every user in some regions, especially in China.
+
+    If you want to know how to check if you are using a public IP address or not, you can refer to [this](https://www.whatismyip.com/) website or search it on [Google](https://www.google.com).
+
 # Operation Steps
