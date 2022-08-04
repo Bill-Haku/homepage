@@ -58,6 +58,16 @@ I'm firmly believe that owning an email address with your own domain suffix is a
 
 ## Software
 
+- DSM
+
+    My DSM is version 7.1.
+
+    Maybe DSM 6.0+ is also acceptable.
+
+- Mail Server
+
+    It is an official suite from Synology. You'd better use the newest version.
+
 ## Others
 
 # Operation Steps
