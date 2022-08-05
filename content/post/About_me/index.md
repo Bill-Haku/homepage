@@ -115,6 +115,8 @@ Also, you are welcomed to contact me at any time if you have any questions.
 
 - I respect the rights and privacy of others.
 
+  I do not collect any information from this website. Also, I respect all your reasonable rights.
+
 - I oppose discrimination.
 
 ## My Skills & Work Experience
