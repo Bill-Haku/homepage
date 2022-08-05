@@ -121,9 +121,23 @@ Also, you are welcomed to contact me at any time if you have any questions.
 
   Everyone should be treated equally. Regardless of your nationality, gender, age, ethnicity, religious belief, personality and sexual orientation, I will do my best to ensure that you are treated fairly. If you think I have discriminated against you, please contact me immediately and I will correct it immediately.
 
-## My Skills & Work Experience
+<!-- ## My Skills & Work Experience -->
 
 # About This Website
+
+This website is a personal website of me. I have been looking forward to owing a personal website for a long time. And finally I have the chance to do it.
+
+## You can know about me.
+
+I have provided a full introduction to my self. It includes many details about me in my opinion. Read the [About me part](#about-me) of the article carefully if you didn't. And if you still have any question, contact me by [Email](mailto:i@hakubill.tech).
+
+## A place to write technology blogs in English
+
+I will try to write English technology blogs and post them on this website. If I want to write something about others, just like articles that are slightly closed to literature, I will write them in Chinese and you can read them on [Zhuaiyuwen Site](http://zhuaiyuwen.xyz)
+
+## A place to share my achievements
+
+Althought I'm trying to make it a place to share my achievements, it is really too early to say that I had made any achievements. Anyway, I will try it and please wait for me.
 
 # License
 
