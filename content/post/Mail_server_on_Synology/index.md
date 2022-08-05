@@ -78,6 +78,6 @@ I'm firmly believe that owning an email address with your own domain suffix is a
 
     You need to get a public IP address from your ISP. In my experience, public IP address is not provided to every user in some regions, for example, in China.
 
-    If you want to know how to check if you are using a public IP address or not, you can refer to [this](https://www.whatismyip.com/) website or search it on [Google](https://www.google.com).
+    If you want to know how to check if you are using a public IP address or not, you can refer to [this](https://www.howtogeek.com/117371/how-to-find-your-computers-private-public-ip-addresses/) or search it on [Google](https://www.google.com).
 
 # Operation Steps
