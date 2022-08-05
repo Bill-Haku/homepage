@@ -107,6 +107,12 @@ Also, you are welcomed to contact me at any time if you have any questions.
 
 - I support the Internet spirit.
 
+  I stongly oppose the concentration of information and traffic on a certain platform. For example, Wechat Official Accounts. In fact, I've found that it has got the essence of RSS but it limited all the users and content creators on its own platform. I firmly believe that the Internet should be a public space and the entrance of the Internet should be a web browser but a certain application.
+
+  It should be admitted that some social media platforms including [Twitter](https://twitter.com) and [Weibo](https://weibo.com) provided an easier way for common people to express their opinions and share their life. However, the centralized approach is not in line with the Internet spirit.
+
+  Hence, I registered a domain name from [ICANN](https://www.icann.org) and everyone can access [my website](https://hakubill.tech) by a web browser. Also, I recommend everyone to use RSS Feed to get in touch with informations on the Internet.
+
 - I respect the rights and privacy of others.
 
 - I oppose discrimination.
