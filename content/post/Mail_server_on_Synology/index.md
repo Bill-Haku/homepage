@@ -60,13 +60,13 @@ I'm firmly believe that owning an email address with your own domain suffix is a
 
 - DSM
 
-    My DSM is version 7.1.
+    My Synology NAS software is DSM 7.1-42661 Update 3.
 
     Maybe DSM 6.0+ is also acceptable.
 
 - Mail Server
 
-    It is an official suite from Synology. You'd better use the newest version.
+    It is an official tool from Synology. You'd better use the newest version. My version is 1.7.4-10659.
 
 ## Others
 
@@ -76,7 +76,7 @@ I'm firmly believe that owning an email address with your own domain suffix is a
 
 - Public IP address
 
-    You need to get a public IP address from your ISP. In my experience, public IP address is not provided to every user in some regions, especially in China.
+    You need to get a public IP address from your ISP. In my experience, public IP address is not provided to every user in some regions, for example, in China.
 
     If you want to know how to check if you are using a public IP address or not, you can refer to [this](https://www.whatismyip.com/) website or search it on [Google](https://www.google.com).
 
