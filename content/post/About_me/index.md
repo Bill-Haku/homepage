@@ -119,6 +119,8 @@ Also, you are welcomed to contact me at any time if you have any questions.
 
 - I oppose discrimination.
 
+  Everyone should be treated equally. Regardless of your nationality, gender, age, ethnicity, religious belief, personality and sexual orientation, I will do my best to ensure that you are treated fairly. If you think I have discriminated against you, please contact me immediately and I will correct it immediately.
+
 ## My Skills & Work Experience
 
 # About This Website
