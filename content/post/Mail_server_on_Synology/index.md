@@ -81,3 +81,11 @@ I'm firmly believe that owning an email address with your own domain suffix is a
     If you want to know how to check if you are using a public IP address or not, you can refer to [this](https://www.howtogeek.com/117371/how-to-find-your-computers-private-public-ip-addresses/) or search it on [Google](https://www.google.com).
 
 # Operation Steps
+
+## Configure your DNS
+
+You need to create a secondary domain name for your mail server. For example: `mail.yourdomain.com`. If you have a static Public IP address, you can create an A record and use your IP address as the value of the record.
+
+However, not everyone has a static Public IP address. If you don't have a static Public IP address, you can still use the dynamic Public IP address. What you need to do first is to configure a DDNS service.
+
+> Don't worry too much about it. Fortunately, it is so simple that you can find many online tutorials on how to do it. What's more, you can also find many free DDNS service providers. [FreeDDNS](https://www.hostddns.us) and [Huashengke](https://hsk.oray.com) are recommended.
