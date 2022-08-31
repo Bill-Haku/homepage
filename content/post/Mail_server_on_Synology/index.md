@@ -82,7 +82,7 @@ I'm firmly believe that owning an email address with your own domain suffix is a
 
 # Operation Steps
 
-## Configure your DNS
+## Configure your authority DNS server
 
 You need to create a secondary domain name for your mail server. For example: `mail.yourdomain.com`. If you have a static Public IP address, you can create an A record and use your IP address as the value of the record.
 
@@ -90,4 +90,8 @@ However, not everyone has a static Public IP address. If you don't have a static
 
 > Don't worry too much about it. Fortunately, it is so simple that you can find many online tutorials on how to do it. What's more, you can also find many free DDNS service providers. [FreeDDNS](https://www.hostddns.us) and [Huashengke](https://hsk.oray.com) are recommended. If you use Synology NAS, you can use the built-in DDNS service provided by Synology.
 
-After finishing DDNS configuration, you get a domain conbined with your Public IP address. However, the domain name is provided by your DDNS service provider (eg. yourname.ddns.com). You can add a CNAME record to your authority DNS server. Value is your DDNS domain name.
+After finishing DDNS configuration, you get a domain conbined with your Public IP address. However, the domain name is provided by your DDNS service provider (eg. yourname.ddns.com). You can add a CNAME record to your authority DNS server. Value is your DDNS domain name, and name is your mail server's secondary domain name.
+
+Next, you need to add an MX record to your authority DNS server. If your domain name is `yourdomain.com`, and you want your mail addresses show like `someone@yourdomain.com`, you can add an MX record with the name of `@.yourdomain.com` and the value of `mail.yourdomain.com`.
+
+Now, you have finished the authority DNS server configuration. Let's go to the next.
