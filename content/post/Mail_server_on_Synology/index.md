@@ -88,4 +88,6 @@ You need to create a secondary domain name for your mail server. For example: `m
 
 However, not everyone has a static Public IP address. If you don't have a static Public IP address, you can still use the dynamic Public IP address. What you need to do first is to configure a DDNS service.
 
-> Don't worry too much about it. Fortunately, it is so simple that you can find many online tutorials on how to do it. What's more, you can also find many free DDNS service providers. [FreeDDNS](https://www.hostddns.us) and [Huashengke](https://hsk.oray.com) are recommended.
+> Don't worry too much about it. Fortunately, it is so simple that you can find many online tutorials on how to do it. What's more, you can also find many free DDNS service providers. [FreeDDNS](https://www.hostddns.us) and [Huashengke](https://hsk.oray.com) are recommended. If you use Synology NAS, you can use the built-in DDNS service provided by Synology.
+
+After finishing DDNS configuration, you get a domain conbined with your Public IP address. However, the domain name is provided by your DDNS service provider (eg. yourname.ddns.com). You can add a CNAME record to your authority DNS server. Value is your DDNS domain name.
