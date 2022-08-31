@@ -74,8 +74,10 @@ highlight_name: true
 
 I am a software engineer who loves coding and all new software technologies. My interests include OS Kernel, Artificial Intelligence, iOS & macOS App development, Android App Development and Web page technologies.
 
+My recent new work: **Genshin Pizza Helper**, a tool for [Genshin Impact](https://genshin.hoyoverse.com) players to check their resin and other infos in game in app or on Widget. iOS / iPadOS / macOS available. You can download in [App Store](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E%E6%8A%AB%E8%90%A8%E5%B0%8F%E5%8A%A9%E6%89%8B/id1635319193).
+
 As a member of StarStudio, I am responsible for the development of the iOS and iPadOS Version of the UESTC's official BBS App.
 
 As a member of Zhuai Yuwen, I posted some artcles on it and made the website for [ZhuaiYuwen](http://zhuaiyuwen.xyz).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
