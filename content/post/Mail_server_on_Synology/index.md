@@ -95,3 +95,23 @@ After finishing DDNS configuration, you get a domain conbined with your Public I
 Next, you need to add an MX record to your authority DNS server. If your domain name is `yourdomain.com`, and you want your mail addresses show like `someone@yourdomain.com`, you can add an MX record with the name of `@.yourdomain.com` and the value of `mail.yourdomain.com`.
 
 Now, you have finished the authority DNS server configuration. Let's go to the next.
+
+## Configure your Synology NAS
+
+### Install Mail Server
+
+You can download and install Synology Mail Server from the Package Center.
+
+### Configure Mail Server
+
+- Enable SMTP
+
+  Click the checkbox in front of the "Enable SMTP" option. Enable SMTP authentication is recommended.
+
+  Next is to configure your host name (FQDN). Just as I have mentioned above, if you want to make your main address in a form like `someone@yourdomain.com`, enter `yourdomain.com` in the "Host name" field.
+
+  The port number is 25 by default. You can change it if you want. But just keep it is okay. Next, click the checkbox to enable SMTP-SSL and SMTP-TLS. Keep the port number 465 and 587 provided by default.
+
+- Enable IMAP/POP3
+
+  Click all the checkboxes in the third tab. You know what I am talking about when you see it.
