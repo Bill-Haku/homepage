@@ -139,6 +139,12 @@ I will try to write English technology blogs and post them on this website. If I
 
 Althought I'm trying to make it a place to share my achievements, it is really too early to say that I had made any achievements. Anyway, I will try it and please wait for me.
 
+# My works
+
+## Genshin Pizza Helper
+
+## Qingshuihepan App - Official iOS App of BBS of UESTC
+
 # License
 
 Copyright ©️ 2022-present [Bill Haku](https://hakubill.tech).
