@@ -15,7 +15,7 @@ date: '2022-08-03T00:00:00Z'
 lastmod: '2022-08-03T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -115,3 +115,35 @@ You can download and install Synology Mail Server from the Package Center.
 - Enable IMAP/POP3
 
   Click all the checkboxes in the third tab. You know what I am talking about when you see it.
+
+# How to use it?
+
+Now everything is ready. You can start to use your own mail server with your preferred domain name from now on. You can also make a web mail server on your Synology NAS if you would like to, however, I don't think it is necessary in my experience.
+
+However, before telling you how to configure the mail client, I'd like to tell you how to customize your own username of the email.
+
+## Customize your username
+
+On default, the username of an email address, which means the letters before the `@` mark, provided by Synology Mail server is your user name of the Synology NAS OS. For example, if you sign in your NAS with the username `hakubill`, the email address will be `hakubill@yourdomain.com`. Every user on your NAS's OS has an independent email address and space to store the emails.
+
+However, if you want to use another username for the email, you don't need to add a new user. You can create an alias for your self. You can find it on your Mail Server App. For example, you create an alias named `me` for yourself. Then you can use `me@yourdomain.com` as your email address. `me@yourdomain.com` and `yourusername@yourdomain.com` are both valid, and they share the same email space, which means that all the emails sent to `me@yourdomain.com` can also be found when you log in as `yourusername@yourdomain.com`.
+
+## Configure your mail client
+
+Next I will use the built-in Mail App on macOS as an example to show how to configure your mail client. The build-in Mail App on iOS and iPadOS is almost completely same. You can also use other mail clients like Thunderbird, Outlook, etc.
+
+- Go to the Preferences Settings of the Mail App.
+
+- Go to account tab and click the "+" button to add a new account.
+
+- Select "Other Account" and click "Continue".
+
+- Here write the OS's Username, your email address and the password of the OS's username. If you set an alias, enter your alias email address here.
+
+- Click log in. Then it will say that it failed to verify the username or password. And more textfields will appear. Enter the username again. Keep account type as IMAP and enter the domain name of your mail server, `mail.yourdomain.com` in my case. Then go forward.
+
+- Now everything should be done. You can use your email now! Congratulations!
+
+# Notice
+
+Although you can send and receive emails now by theory, you may encounter some problem when trying to send a email. Many public email service providers will ban your email and return it because it is sent from an unknown domain and is highly likely to be a spam email. Of course, there's a way to solve it. You can add a SPF record to your authority DNS server. You can find many online tutorials on how to do it. If you use Synology NAS, you can use the built-in DNS service provided by Synology. But I have no time to learn about it now. See you next time.
