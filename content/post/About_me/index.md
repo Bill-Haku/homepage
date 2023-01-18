@@ -143,6 +143,10 @@ Althought I'm trying to make it a place to share my achievements, it is really t
 
 ## Genshin Pizza Helper
 
+Genshin Pizza Helper is an iOS game tools app for Genshin Impact Players. After logging in into Hoyoverse, it can get all your resin data, expedition data and many other infos, which can also be displayed in the Widget of iOS homescreen and lock screen and also Apple Watch.
+
+By the end of 2022, Genshin Pizza Helper have reached almost 200,000 downloads in the App Store.
+
 ## Qingshuihepan App - Official iOS App of BBS of UESTC
 
 # License
