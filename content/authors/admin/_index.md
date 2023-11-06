@@ -78,6 +78,8 @@ My recent new work: **Genshin Pizza Helper**, a tool for [Genshin Impact](https:
 
 As a member of StarStudio, I am responsible for the development of the iOS and iPadOS Version of the UESTC's official BBS App.
 
-As a member of Zhuai Yuwen, I posted some artcles on it and made the website for [ZhuaiYuwen](http://zhuaiyuwen.xyz).
+As a member of Zhuai Yuwen, I posted some artcles on it and made the website for [ZhuaiYuwen](http://zhuaiyuwen.hakubill.tech).
+
+You can see all my articles about everything as blogs on [iBlog of Bill Haku](http://blog.hakubill.tech). (Written in Chinese)
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
