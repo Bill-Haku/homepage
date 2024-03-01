@@ -10,8 +10,8 @@ role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Electronic Science and Technology of China
-    url: https://www.uestc.edu.cn/
+  - name: Pizza Studio
+    url: https://pizzastudio.org
 
 # Short bio (displayed in user profile at end of posts)
 bio: A software engineer who loves coding.
@@ -30,9 +30,9 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
+    - course: MSc in Information Systems
+      institution: Nanyang Technological University
+      year: 2024
     - course: BSc in Software Engineering
       institution: University of Electronic Science and Technology of China
       year: 2020
@@ -74,11 +74,13 @@ highlight_name: true
 
 I am a software engineer who loves coding and all new software technologies. My interests include OS Kernel, Artificial Intelligence, iOS & macOS App development, Android App Development and Web page technologies.
 
-My recent new work: **Genshin Pizza Helper**, a tool for [Genshin Impact](https://genshin.hoyoverse.com) players to check their resin and other infos in game in app or on Widget. iOS / iPadOS / macOS available. You can download in [App Store](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E%E6%8A%AB%E8%90%A8%E5%B0%8F%E5%8A%A9%E6%89%8B/id1635319193).
+My recent new work: **Pizza Helper for Genshin**, a tool for [Genshin Impact](https://genshin.hoyoverse.com) players to check their resin and other infos in game in app or on Widget. iOS / iPadOS / macOS available. You can download in the [App Store](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E%E6%8A%AB%E8%90%A8%E5%B0%8F%E5%8A%A9%E6%89%8B/id1635319193).
+
+Also, I have made the **Pizza Helper for HSR**, a tool for [Honkai: Star Rail](https://hsr.hoyoverse.com) players, which is similar to that for Genshin Impact. You can download in the [App Store](https://download.pizzastudio.org/hsr).
 
 As a member of StarStudio, I am responsible for the development of the iOS and iPadOS Version of the UESTC's official BBS App.
 
-As a member of Zhuai Yuwen, I posted some artcles on it and made the website for [ZhuaiYuwen](http://zhuaiyuwen.hakubill.tech).
+As a member of Zhuai Yuwen, I posted some articles on it and made the website for [ZhuaiYuwen](http://zhuaiyuwen.hakubill.tech).
 
 You can see all my articles about everything as blogs on [iBlog of Bill Haku](http://blog.hakubill.tech). (Written in Chinese)
 
