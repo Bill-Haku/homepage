@@ -30,7 +30,7 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
-    - course: MSc in Information Systems
+    - course: MSc in Artificial Intelligence
       institution: Nanyang Technological University
       year: 2024
     - course: BSc in Software Engineering
