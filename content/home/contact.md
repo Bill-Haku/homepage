@@ -28,10 +28,10 @@ content:
   email: i@hakubill.tech
   # phone: 888 888 88 88
   address:
-    street: Jianshe North Road 2nd Section #6
-    city: Chengdu
-    region: Sichuan
-    postcode: '610051'
+    street: No. 221 Huangxing Road, Yangpu District
+    city: Shanghai
+    region: Shanghai
+    postcode: '200093'
     country: China
     country_code: CN
   # coordinates:
@@ -39,9 +39,8 @@ content:
   #   longitude: '-122.1697'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 14:00 to 17:00'
-    - 'Wednesday 09:00 to 12:00'
-    - 'Friday 09:00 to 17:00'
+    - 'Monday - Thursday 10:00 to 20:00'
+    - 'Friday 10:00 to 19:00'
   # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter

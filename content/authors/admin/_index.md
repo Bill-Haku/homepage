@@ -32,7 +32,7 @@ education:
     - course: MSc in Artificial Intelligence
       institution: Nanyang Technological University
       year: 2025
-    - course: BSc in Software Engineering
+    - course: B.Eng. in Software Engineering
       institution: University of Electronic Science and Technology of China
       year: 2024
 

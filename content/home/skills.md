@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 40%
-    icon: c
+  - description: 60%
+    icon: typescript
     icon_pack: fab
-    name: C
+    name: TypeScript
   - description: 70%
     icon: swift
     icon_pack: fab
