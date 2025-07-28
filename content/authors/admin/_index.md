@@ -10,19 +10,18 @@ role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Pizza Studio
-    url: https://pizzastudio.org
+  - name: Meituan
+    url: https://www.meituan.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: A software engineer who loves coding.
 
 # Interests to show in About widget
 interests:
-  - Linux Kernel
   - Multiplatform Application Development
+  - Front-end Development
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
@@ -32,10 +31,10 @@ education:
     #   year: 2012
     - course: MSc in Artificial Intelligence
       institution: Nanyang Technological University
-      year: 2024
+      year: 2025
     - course: BSc in Software Engineering
       institution: University of Electronic Science and Technology of China
-      year: 2020
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -72,13 +71,13 @@ email: 'i@hakubill.tech'
 highlight_name: true
 ---
 
-I am a software engineer who loves coding and all new software technologies. My interests include OS Kernel, Artificial Intelligence, iOS & macOS App development, Android App Development and Web page technologies.
+I’m Bill Haku, a Software Development Engineer at Meituan’s Dianping Business Department, where I focus on developing and maintaining search and food discovery features in the Dianping App. I work with a range of front-end technologies to deliver seamless and efficient user experiences.
 
-My recent new work: **Pizza Helper for Genshin**, a tool for [Genshin Impact](https://genshin.hoyoverse.com) players to check their resin and other infos in game in app or on Widget. iOS / iPadOS / macOS available. You can download in the [App Store](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E%E6%8A%AB%E8%90%A8%E5%B0%8F%E5%8A%A9%E6%89%8B/id1635319193).
+I hold a Bachelor’s degree in Software Engineering from the University of Electronic Science and Technology of China (UESTC) and completed my MSc in Artificial Intelligence at Nanyang Technological University (NTU) in 2025.
 
-Also, I have made the **Pizza Helper for HSR**, a tool for [Honkai: Star Rail](https://hsr.hoyoverse.com) players, which is similar to that for Genshin Impact. You can download in the [App Store](https://download.pizzastudio.org/hsr).
+In 2021, I co-founded Pizza Studio, leading the development of [Pizza Helper for Genshin](https://apps.apple.com/cn/app/id1635319193) and other apps, which have collectively garnered 500,000+ downloads and 20,000+ ratings, with an average rating of 4.9 on the App Store.
 
-As a member of StarStudio, I am responsible for the development of the iOS and iPadOS Version of the UESTC's official BBS App.
+I’m passionate about building scalable applications, exploring new front-end frameworks, and optimizing search functionalities for better user engagement.
 
 As a member of Zhuai Yuwen, I posted some articles on it and made the website for [ZhuaiYuwen](http://zhuaiyuwen.hakubill.tech).
 
