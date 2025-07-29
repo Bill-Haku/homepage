@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 60%
-    icon: typescript
+    icon: code
     icon_pack: fab
     name: TypeScript
   - description: 70%

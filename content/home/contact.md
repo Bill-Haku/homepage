@@ -45,7 +45,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: DM Me on Twitter
       link: 'https://twitter.com/Haku_Bill'
     - icon: envelope
       icon_pack: fas
